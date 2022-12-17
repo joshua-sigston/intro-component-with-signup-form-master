@@ -200,7 +200,7 @@ input {
 }
 
 .input_background {
-    background-image: url('/images/icon-error.svg');
+    background-image: url('images/icon-error.svg');
     background-repeat: no-repeat;
     background-size: 2rem;
     background-position: 90% 50%;
